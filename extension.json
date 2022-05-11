@@ -1,8 +1,8 @@
 {
-    "module": "{@name}",
-    "name": "{@nameLabel}",
-    "description": "{@description}",
-    "author": "{@author}",
+    "module": "Shop",
+    "name": "Shop",
+    "description": "Shop extension for EspoCRM.",
+    "author": "Krzysztof Czereczon",
     "acceptableVersions": [
         ">=5.9.0"
     ],
